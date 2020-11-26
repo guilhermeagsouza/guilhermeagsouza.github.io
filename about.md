@@ -6,8 +6,8 @@ title: About Long Haul
 <div class="post">
 	<h1 class="pageTitle">Sobre</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Guilherme é cientista de dados com forte background em modelagem estatística. Atuou no início da carreira como estagiário da Pesquisa Mensal do Comércio (IBGE) e analista de uma empresa do varejo do Rio de Janeiro. Foi cientista de dados em consultorias e atualmente trabalha numa equipe de Ciência de Dados de um grande conglomerado de mídia. </p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<p class="intro">Guilherme é cientista de dados com forte background em modelagem estatística.</p>
+	<p>Atuou no início da carreira como estagiário da Pesquisa Mensal do Comércio (IBGE) e analista de uma empresa do varejo do Rio de Janeiro. Foi cientista de dados em consultorias e atualmente trabalha numa equipe de Ciência de Dados de um grande conglomerado de mídia.</p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
