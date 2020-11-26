@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: Casa de análises
 ---
 
 <div class="post">
