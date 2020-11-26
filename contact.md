@@ -7,7 +7,7 @@ title: Contact Long Haul
   <h1 class="pageTitle">Entre em contato</h1>
   <div class="contactContent">
     <p class="intro">Entre em contato comigo.</p>
-    <p>Caso queira entrar em contato, envie um e-mail para <a href="mailto:guilherme.cdados@gmail.com">mim.</a> Até mais!</p>
+    <p>Caso queira entrar em contato, envie um e-mail ou me adicione no <a href="https://www.linkedin.com/in/guilhermeagsouza/">LinkedIn.</a> Até mais!</p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Nome</label>
@@ -16,6 +16,6 @@ title: Contact Long Haul
     <input type="email" id="email" name="_replyto" class="full-width"><br>
     <label for="message">Mensagem</label>
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="submit" value="Send" class="button">
+    <input type="submit" value="Enviar" class="button">
   </form>
 </div>
