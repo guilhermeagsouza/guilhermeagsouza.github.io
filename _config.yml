@@ -1,8 +1,8 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Blog de análises
+description: descrição do blog
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "/long-haul"
+url: http://guilhermeagsouza.github.io
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -15,21 +15,18 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Início
     url: /index.html
-  - title: About
+  - title: Sobre
     url: /about
-  - title: Contact
+  - title: Contato
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: guilhermeagsouza
+  twitter: guilhermeohaxa
+  facebook: araujo.blues
+  email: guilherme.cdados@gmail.com
+  linkedin: guilhermeagsouza
 
-google_analytics: "UA-58263416-1"
-
-disqus:
-    shortname: brianmaierjr
+google_analytics: "GOOGLES ANALYTICS"
